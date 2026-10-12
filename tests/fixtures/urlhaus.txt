@@ -1,0 +1,4 @@
+# id,dateadded,url,url_status,last_online,threat,tags,urlhaus_link,reporter
+"1","2026-10-10 10:00:00","http://162.243.103.246:8080/bin.sh","online","2026-10-10","malware_download","mirai","x","r"
+"2","2026-10-10 10:00:01","https://GitHub.com/evil/repo/raw/main/x.exe","online","2026-10-10","malware_download","None","x","r"
+"3","2026-10-10 10:00:02","not a url","online","2026-10-10","malware_download","None","x","r"

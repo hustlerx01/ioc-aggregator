@@ -1,0 +1,5 @@
+# "first_seen_utc","ioc_id","ioc_value","ioc_type","threat_type","fk_malware","malware_alias","malware_printable","last_seen_utc","confidence_level","is_compromised","reference","tags","anonymous","reporter"
+"2026-10-09 00:00:00", "1", "162.243.103.246:443", "ip:port", "botnet_cc", "win.qakbot", "None", "QakBot", "", "100", "False", "None", "qakbot", "0", "r"
+"2026-10-09 00:00:01", "2", "evil-c2.example.top", "domain", "botnet_cc", "win.vidar", "None", "Vidar", "", "75", "False", "None", "vidar", "0", "r"
+"2026-10-09 00:00:02", "3", "x.workers.dev", "domain", "payload_delivery", "x", "None", "X", "", "50", "True", "None", "", "0", "r"
+"2026-10-09 00:00:03", "4", "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855", "sha256_hash", "payload", "x", "None", "X", "", "50", "False", "None", "", "0", "r"
