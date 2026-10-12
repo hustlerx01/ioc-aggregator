@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "raw": 44618,
+    "raw:feodo": 5,
+    "raw:urlhaus": 32923,
+    "duplicates": 877,
+    "raw:threatfox": 6752,
+    "allow_listed": 73,
+    "raw:openphish": 300,
+    "raw:blocklist_de_ssh": 4638,
+    "invalid": 6,
+    "url_host_corroborated": 896,
+    "unique": 43662
+  },
+  "by_type": {
+    "domain": 2268,
+    "ipv4": 7076,
+    "md5": 148,
+    "sha256": 532,
+    "url": 33638
+  },
+  "multi_feed": 12,
+  "stix_indicators": 43662,
+  "fetch_seconds": {
+    "feodo": 1.19,
+    "urlhaus": 2.65,
+    "threatfox": 2.3,
+    "openphish": 2.03,
+    "blocklist_de_ssh": 0.08
+  },
+  "total_seconds": 25.18
+}

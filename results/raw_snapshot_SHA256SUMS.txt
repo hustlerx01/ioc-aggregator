@@ -1,0 +1,5 @@
+b3c14b0ae75e88a9fa82b6aea3c57c9c82b43a47cd7a669c4d1bf24cfc5a4966  data/raw/blocklist_de_ssh.txt
+ed47be907faee9488c1045282a225b39c1d9ec815532e646610bc61c077c9ca1  data/raw/feodo.txt
+90d22925e67b5750f7826a2201e3c01f70b232921d4f1799fd8d96e8c9899e5f  data/raw/openphish.txt
+e8dd0f59d5d6d9fbbda3484f96f5c1a8008f8fdd7da98e2bcf76eab5315de09a  data/raw/threatfox.txt
+8189329438cf5a7d53fe1a9004db98e6c0dafd27a4fd25e56c086f43b73a9456  data/raw/urlhaus.txt
